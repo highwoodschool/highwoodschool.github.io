@@ -1,6 +1,4 @@
 ####################################
-# highwoodschool.github.io         #
-####################################
 
 Attempted archive and rebuild of http://www.highwoodschool.org.uk/ 
 
